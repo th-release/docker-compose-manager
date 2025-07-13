@@ -1,0 +1,4 @@
+{
+    "DOCKER_PATH": "docker-compose.yaml",
+    "PORT": 8080
+}
